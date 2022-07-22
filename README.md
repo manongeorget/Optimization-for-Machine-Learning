@@ -1,1 +1,1 @@
-# Optimization-for-Machine-Learning
+This is the repository for the Optimization for Machine Learning project in the context of MASH master, PSL university : classification of mice in terms of Down Syndrom. The dataset, found on UCI (Machine Learning Repository), is made of  expression levels of proteins  for 8 classes of control and Down syndrome mice.
